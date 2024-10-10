@@ -1,0 +1,7 @@
+feedparser
+sqlalchemy
+psycopg2
+spacy
+celery
+pymysql
+celery[redis]
